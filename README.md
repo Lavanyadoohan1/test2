@@ -1,2 +1,0 @@
-# DailyTopics
-DailyTopics
